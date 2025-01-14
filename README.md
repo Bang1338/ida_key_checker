@@ -1,5 +1,5 @@
 # IDA Key Checker
-IDA Pro (6.x-7.x) key checker tool
+IDA Pro (6.x-9.x) key checker tool
 
 ## Usage
 
@@ -200,6 +200,10 @@ To disable storage of private license details in database use this setting in co
 ```
 STORE_USER_INFO = NO
 ```
+
+## TODO
+
+Add >=9.0 licensing system
 
 ## Libs
 
